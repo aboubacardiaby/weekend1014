@@ -1,0 +1,12 @@
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\bin\Debug\net6.0\LBL.PA.UnitTests.deps.json
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\bin\Debug\net6.0\LBL.PA.UnitTests.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\bin\Debug\net6.0\LBL.PA.UnitTests.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.AssemblyInfo.cs
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\refint\LBL.PA.UnitTests.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\LBL.PA.UnitTests.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.UnitTests\obj\Debug\net6.0\ref\LBL.PA.UnitTests.dll

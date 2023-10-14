@@ -1,0 +1,12 @@
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\bin\Debug\net6.0\LBL.PA.DataLAyer.deps.json
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\bin\Debug\net6.0\LBL.PA.DataLAyer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\bin\Debug\net6.0\LBL.PA.DataLAyer.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.csproj.AssemblyReference.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.AssemblyInfoInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.AssemblyInfo.cs
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.csproj.CoreCompileInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\refint\LBL.PA.DataLAyer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\LBL.PA.DataLAyer.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.DataLAyer\obj\Debug\net6.0\ref\LBL.PA.DataLAyer.dll

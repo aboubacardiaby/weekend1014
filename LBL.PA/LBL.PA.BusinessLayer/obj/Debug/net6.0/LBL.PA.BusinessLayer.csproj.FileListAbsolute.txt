@@ -1,0 +1,12 @@
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\bin\Debug\net6.0\LBL.PA.BusinessLayer.deps.json
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\bin\Debug\net6.0\LBL.PA.BusinessLayer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\bin\Debug\net6.0\LBL.PA.BusinessLayer.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.AssemblyInfo.cs
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\refint\LBL.PA.BusinessLayer.dll
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\LBL.PA.BusinessLayer.pdb
+C:\Users\Abou\source\repos\Class\LBL.PA\LBL.PA.BusinessLayer\obj\Debug\net6.0\ref\LBL.PA.BusinessLayer.dll
